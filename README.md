@@ -24,7 +24,7 @@
    ```
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-аккаунт>/<репозиторий>.git ~/.config/nvim
+   git clone https://github.com/Alexandr-Fredrix/nvim-config.git ~/.config/nvim
    ```
 3. Запустите Neovim. `lazy.nvim` установит себя автоматически и предложит синхронизацию плагинов. Можно вручную запустить:
    ```vim
